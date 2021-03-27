@@ -14,6 +14,8 @@ namespace SimulANT.Simulant
         public Vector Direction { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
         public double ViewConeAngle { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
         public double ViewRadius { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public bool HoldingFood { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public int Age { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
 
         public bool LookForFood()
         {

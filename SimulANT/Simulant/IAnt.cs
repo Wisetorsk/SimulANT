@@ -14,6 +14,8 @@ namespace SimulANT.Simulant
         public Vector Direction { get; set; }
         public double ViewConeAngle { get; set; }
         public double ViewRadius { get; set; }
+        public bool HoldingFood { get; set; }
+        public int Age { get; set; }
 
         public void UpdatePostion();
         public void RandomWalk();
