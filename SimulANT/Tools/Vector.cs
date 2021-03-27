@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SimulANT.Ant
+namespace SimulANT.Tools
 {
-    interface IAnt
+    public class Vector
     {
     }
 }

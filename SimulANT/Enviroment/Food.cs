@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SimulANT.Enviroment
 {
-    class Food
+    public class Food
     {
     }
 }

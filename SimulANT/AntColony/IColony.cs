@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace SimulANT.Colony
+namespace SimulANT.AntColony
 {
-    interface IColony
+    public interface IColony
     {
     }
 }
